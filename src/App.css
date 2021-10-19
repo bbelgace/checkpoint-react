@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  background-color: #000;
+}
+h2 {
+  padding: 0px 100px;
+  margin: 20px;
+}
+li {
+  padding: 10px;
+}
+button {
+  padding: 20px;
+  margin-left: 700px;
+}
+#bbb {
+  margin-bottom: 100px;
+}
+
+.container {
+  border: #282c34 5px solid;
+  border-radius: 5px;
+  box-shadow: 20px 5px 5px #909091;
+  margin: 400px;
+}
